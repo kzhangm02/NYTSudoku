@@ -1,7 +1,7 @@
 # NYTSudoku
 A program to solve the daily NYT sudokus
 
-Run the main method in Sudoku.java and open the daily NYT sudoku in a new window.
+Run the main method in Sudoku.java and open the daily NYT sudoku in a new window. The program requires installing Jython and adding jython-standalone-2.7.2.jar to the Classpath.
 
 ### Algorithm
 
